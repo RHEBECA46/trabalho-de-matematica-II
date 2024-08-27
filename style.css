@@ -1,0 +1,15 @@
+h1{color: white;
+text-align: center;
+} 
+h2{color:darkgree;
+text-align: center;      
+border-width: 8px;   
+border-color: red;
+border-style: solid;              
+}
+#corinthians {border-width: 8px;
+border-color: black;
+border-style: solid;
+} 
+#corinthians{margin-top: 500px;}  
+#corinthians{width: 400px;}         
